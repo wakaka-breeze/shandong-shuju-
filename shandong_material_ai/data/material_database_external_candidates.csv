@@ -1,0 +1,111 @@
+﻿formula,source_database,source_id,source_url,matched_formula,formation_energy,energy_above_hull,band_gap,spacegroup,data_status,pearson_symbol
+TiN,OQMD,307045,http://oqmd.org/materials/entry/307045,TiN,-0.958777449564884,0.855505125000001,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiN,OQMD,338587,http://oqmd.org/materials/entry/338587,TiN,-0.840482309564885,0.973800265,0.0,P4/mmm,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiN,OQMD,1106230,http://oqmd.org/materials/entry/1106230,TiN,-1.81425399956488,2.857500000486013e-05,0.0,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiN,OQMD,1108210,http://oqmd.org/materials/entry/1108210,TiN,-1.22895540831489,0.585327166249995,0.0,Pmma,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiN,OQMD,1221251,http://oqmd.org/materials/entry/1221251,TiN,-0.958966469564885,0.855316105,0.0,Pmma,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+CrN,OQMD,6912,http://oqmd.org/materials/entry/6912,CrN,-0.437865702671752,0.1803995150000015,0.0,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+CrN,OQMD,22276,http://oqmd.org/materials/entry/22276,CrN,-0.567263862671753,0.0510013550000005,0.0,F-43m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+CrN,OQMD,305323,http://oqmd.org/materials/entry/305323,CrN,0.0574244323282471,0.6756896500000007,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+CrN,OQMD,326407,http://oqmd.org/materials/entry/326407,CrN,-0.437012332671753,0.1812528850000005,0.0,R-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+CrN,OQMD,336865,http://oqmd.org/materials/entry/336865,CrN,0.104221807328248,0.7224870250000016,0.0,P4/mmm,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Al2O3,OQMD,14842,http://oqmd.org/materials/entry/14842,Al2O3,-3.25358295452725,0.0114830729999999,4.845,C2/m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Al2O3,OQMD,20393,http://oqmd.org/materials/entry/20393,Al2O3,-2.98481908552725,0.2802469419999998,4.722,Cmcm,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Al2O3,OQMD,21959,http://oqmd.org/materials/entry/21959,Al2O3,-3.17539857752725,0.0896674499999998,4.916,P1,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Al2O3,OQMD,353709,http://oqmd.org/materials/entry/353709,Al2O3,-2.07939081952725,1.1856752079999997,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Al2O3,OQMD,21554,http://oqmd.org/materials/entry/21554,Al2O3,-3.14775106002725,0.1173149675,6.194,Pbcn,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Cr2O3,OQMD,4848,http://oqmd.org/materials/entry/4848,Cr2O3,-2.48172841523096,0.0041373389999996,,R-3c,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Cr2O3,OQMD,643021,http://oqmd.org/materials/entry/643021,Cr2O3,-2.48128167523096,0.0045840789999997,2.383,R-3c,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Cr2O3,OQMD,353850,http://oqmd.org/materials/entry/353850,Cr2O3,-1.63618803923096,0.8496777149999999,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Cr2O3,OQMD,678199,http://oqmd.org/materials/entry/678199,Cr2O3,-2.48012255523096,0.0057431989999998,2.404,R-3,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+Cr2O3,OQMD,1277483,http://oqmd.org/materials/entry/1277483,Cr2O3,-2.09904352435596,0.3868222298749999,0.0,Ia-3d,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrO2,OQMD,17899,http://oqmd.org/materials/entry/17899,ZrO2,-3.5646174672525,0.06836496333334,3.344,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrO2,OQMD,12228,http://oqmd.org/materials/entry/12228,ZrO2,-3.6109212097525,0.0220612208333399,4.092,Pca21,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrO2,OQMD,3278,http://oqmd.org/materials/entry/3278,ZrO2,-3.63298243058584,0.0,3.843,P21/c,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrO2,OQMD,10208,http://oqmd.org/materials/entry/10208,ZrO2,-3.52991433808584,0.1030680925,3.176,Pnma,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrO2,OQMD,646648,http://oqmd.org/materials/entry/646648,ZrO2,-3.59598821058584,0.0369942199999999,4.03,P42/nmc,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+SiC,OQMD,22472,http://oqmd.org/materials/entry/22472,SiC,0.53431968375,0.7432248316666671,0.0,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+SiC,OQMD,4566,http://oqmd.org/materials/entry/4566,SiC,-0.20822938625,0.0006757616666669,1.586,F-43m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+SiC,OQMD,4580,http://oqmd.org/materials/entry/4580,SiC,-0.20532989375,0.003575254166667,2.501,P63mc,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+SiC,OQMD,20901,http://oqmd.org/materials/entry/20901,SiC,-0.20888580375,1.9344166667017992e-05,2.333,P63mc,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+SiC,OQMD,18548,http://oqmd.org/materials/entry/18548,SiC,-0.20797218125,0.000932966666667,1.946,P3m1,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiC,OQMD,1949,http://oqmd.org/materials/entry/1949,TiC,-0.804124935643131,4.50499999993248e-06,0.0,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiC,OQMD,304686,http://oqmd.org/materials/entry/304686,TiC,0.33022492435687,1.134354365000001,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiC,OQMD,325770,http://oqmd.org/materials/entry/325770,TiC,-0.804129440643131,0.0,0.0,R-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiC,OQMD,336228,http://oqmd.org/materials/entry/336228,TiC,0.307504344356868,1.111633784999999,0.0,P4/mmm,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiC,OQMD,1103872,http://oqmd.org/materials/entry/1103872,TiC,-0.80407920064313,5.024000000097839e-05,0.0,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrN,OQMD,22285,http://oqmd.org/materials/entry/22285,ZrN,-0.898906637671752,0.8865630099999997,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrN,OQMD,5177,http://oqmd.org/materials/entry/5177,ZrN,-1.78516856767175,0.0003010800000018,0.0,Fm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrN,OQMD,21328,http://oqmd.org/materials/entry/21328,ZrN,-1.46486255767175,0.3206070900000017,0.0,F-43m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrN,OQMD,20492,http://oqmd.org/materials/entry/20492,ZrN,-1.33959283267175,0.4458768150000018,0.0,P63mc,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+ZrN,OQMD,305145,http://oqmd.org/materials/entry/305145,ZrN,-0.897934802671752,0.8875348449999998,0.0,Pm-3m,OQMD REST API 候选条目，需人工复核结构与公式匹配,
+TiN,AFLOW,aflow:03943344da7474bd,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NTi_sv/A5B3_oC32_63_c2f_cf-002.AB,N10Ti6,-1.01726,,,63,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oS32
+TiN,AFLOW,aflow:04d18000f485280e,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NTi_sv/AB2_mP12_14_e_2e-001.BA,N8Ti4,-0.672854,,,14,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,mP12
+TiN,AFLOW,aflow:063b4d0db8b54fc0,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NTi_sv/A3B_cP4_221_d_a.BA,N1Ti3,-0.290309,,,221,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cP4
+TiN,AFLOW,aflow:077e9c6ecd8cc1d4,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NTi_sv/A2B_hP3_191_e_a-001.AB,N2Ti1,-0.113746,,,191,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP3
+TiN,AFLOW,aflow:09a647f0b9c51952,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/N1Ti1_ICSD_644781,N1Ti1,-0.095256,,0.0,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+CrN,AFLOW,aflow:01aa415fc4dae1a7,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/Cr1N1_ICSD_626334,Cr1N1,0.738735,,0.0,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+CrN,AFLOW,aflow:028de68d20d209c1,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvN/AB2_hP3_187_a_h-001.AB,Cr1N2,-0.328302,,,187,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP3
+CrN,AFLOW,aflow:033f2ca63577fee5,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvN/AB3_tI16_140_c_ah-001.AB,Cr2N6,0.231684,,,140,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI16
+CrN,AFLOW,aflow:06f2e2def35d8bc3,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvN/AB_oI16_71_abe_n-001.AB,Cr4N4,-0.0943995,,,71,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oI16
+CrN,AFLOW,aflow:0a15d5302fee99f7,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvN/AB_hP4_186_b_b-002.AB,Cr2N2,-0.366086,,,186,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+AlN,AFLOW,aflow:06c4f5b0f1a49096,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/Al1N1_ICSD_105522,Al1N1,-1.24182,,4.434,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+AlN,AFLOW,aflow:0d8a871686f5ff91,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1_ICSD_34475,Al2N2,-1.41389,,4.0455,186,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+AlN,AFLOW,aflow:1797bb9ae99040d5,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1_ICSD_34236,Al2N2,-1.4139,,4.0535,186,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+AlN,AFLOW,aflow:1de5a33327ef22c1,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1_ICSD_67767,Al2N2,-1.41391,,4.058,186,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+AlN,AFLOW,aflow:24c6ee63b14d425c,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1_ICSD_31169,Al2N2,-1.41391,,4.0639,186,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+TiAlN,AFLOW,aflow:004d1fa24ebde464,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1Ti2_ICSD_184882,Al2N2Ti4,,,0.0,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP8
+TiAlN,AFLOW,aflow:1e23e66284a65b46,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1Ti2_ICSD_52641,Al2N2Ti4,,,0.0,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP8
+TiAlN,AFLOW,aflow:5190d197a2157f22,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1Ti2_ICSD_603608,Al2N2Ti4,,,0.0,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP8
+TiAlN,AFLOW,aflow:61771f05dfc3d97b,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N1Ti2_ICSD_608637,Al2N2Ti4,,,0.0,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP8
+TiAlN,AFLOW,aflow:9db0b6ab828dc074,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/Al1N3Ti4_ICSD_91772,Al2N6Ti8,,,0.0,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP16
+Al2O3,AFLOW,aflow:0725f687e8b52e3f,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/RHL/Al2O3_ICSD_31548,Al4O6,-3.02562,,5.8482,167,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR10
+Al2O3,AFLOW,aflow:09eb8d35b9dc38a0,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/RHL/Al2O3_ICSD_608995,Al4O6,-3.0256,,5.8361,167,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR10
+Al2O3,AFLOW,aflow:0a88a74482b5a87b,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/RHL/Al2O3_ICSD_9775,Al4O6,-3.02561,,5.8481,167,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR10
+Al2O3,AFLOW,aflow:0bafeb1e61d491c6,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/ORC/Al2O3_ICSD_169723,Al8O12,-2.93245,,5.3125,60,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oP20
+Al2O3,AFLOW,aflow:0b650eb4deb8d439,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/AlO/A2B3_hR10_167_c_e-001.AB,Al4O6,-3.02557,,,167,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR10
+Cr2O3,AFLOW,aflow:00d3d15d25e0e075,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvO/AB2_mC6_8_a_2a-001.AB,Cr1O2,-1.57259,,,8,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,mS6
+Cr2O3,AFLOW,aflow:01e0798d9b893fbe,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/TET/Cr1O2_ICSD_202836,Cr2O4,,,0.0,136,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tP6
+Cr2O3,AFLOW,aflow:012e48ad29236f58,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/RHL/Cr2O3_ICSD_167274,Cr4O6,-1.16805,,2.3724,167,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR10
+Cr2O3,AFLOW,aflow:0487e2876f172703,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvO/A2B_mP12_14_2e_e-008.BA,Cr4O8,-1.90914,,,136,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tP6
+Cr2O3,AFLOW,aflow:05914c7d8784d439,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Cr_pvO/AB3_hR16_155_2c_def-001.BA,Cr12O4,-0.375948,,,155,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR16
+TiO2,AFLOW,aflow:00364dd5b2c2fe12,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/OTi_sv/A3B_hP12_191_gl_f-001.AB,O9Ti3,-1.68781,,,191,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP12
+TiO2,AFLOW,aflow:0029c7f22e6da2cf,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/TET/O2Ti1_ICSD_31330,O4Ti2,-2.11403,,2.2664,136,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tP6
+TiO2,AFLOW,aflow:0008e5aec4696c3a,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/OTi_sv/AB_tI32_88_cd_f-001.BA,O8Ti8,-2.29708,,,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+TiO2,AFLOW,aflow:00ced2c0eab5f197,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/BCT/O2Ti1_ICSD_96946,O8Ti4,-1.93643,,2.2655,141,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI24
+TiO2,AFLOW,aflow:00de8bb52fafba52,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/OTi_sv/AB2_oP12_59_e_2e-002.BA,O8Ti4,-3.007,,,71,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oI12
+ZrO2,AFLOW,aflow:008037ae1de4803a,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/OZr_sv/AB2_cF12_225_a_c.AB,O1Zr2,-0.76385,,,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF12
+ZrO2,AFLOW,aflow:0003b684582da02e,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/MCL/O2Zr1_ICSD_80048,O8Zr4,-3.36912,,3.467,14,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,mP12
+ZrO2,AFLOW,aflow:005a74b6628f36e1,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/MCL/O2Zr1_ICSD_187207,O8Zr4,-3.36905,,3.4757,14,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,mP12
+ZrO2,AFLOW,aflow:043808fdcce506c8,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/OZr_sv/A3B2_mP10_11_3e_2e-001.AB,O6Zr4,-2.84048,,,63,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oS20
+ZrO2,AFLOW,aflow:04214b0e799f4612,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/OZr_sv/AB_hR2_160_a_a-001.AB,O1Zr1,-2.15882,,,160,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR2
+SiO2,AFLOW,aflow:006068d16ebfef92,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/MCLC/O2Si1_ICSD_170531,O16Si8,-2.26836,,0.0,70,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oF96
+SiO2,AFLOW,aflow:009b39705d1c3115,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/O2Si1_ICSD_41672,O6Si3,-2.80779,,5.7173,154,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP9
+SiO2,AFLOW,aflow:012580c76137accc,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/ORCC/O2Si1_ICSD_40895,O8Si4,-2.81196,,5.381,20,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oS24
+SiO2,AFLOW,aflow:01b0704ecadf9ec9,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/CUB/O2Si1_ICSD_181309,O8Si4,-2.24831,,4.0066,205,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cP12
+SiO2,AFLOW,aflow:02980204caec92e8,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/ORCC/O2Si1_ICSD_162621,O8Si4,-2.81339,,5.4182,20,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oS24
+SiC,AFLOW,aflow:0090105ad4853a8b,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CSi/264,C4Si3,1.09293,,,139,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI14
+SiC,AFLOW,aflow:00f3ac18cb96744c,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CSi/364,C4Si3,1.1957,,,191,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP7
+SiC,AFLOW,aflow:019a63fc18d3c3da,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CSi/223,C6Si10,0.763346,,,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP16
+SiC,AFLOW,aflow:03fd9a034edc5209,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CSi/4,C1Si1,0.534812,,,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+SiC,AFLOW,aflow:04b5faee78384cb3,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CSi/78,C3Si1,2.50365,,,123,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tP4
+TiC,AFLOW,aflow:00cf959898bc26ab,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CTi_sv/A2B_cP12_212_c_a-001.AB,C8Ti4,0.644614,,,212,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cP12
+TiC,AFLOW,aflow:00bb55e45e032921,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CTi_sv/186,C2Ti6,0.357797,,,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP8
+TiC,AFLOW,aflow:021cbc2f34e6e33a,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CTi_sv/AB2_hR3_166_a_c-002.AB,C1Ti2,-0.643987,,,166,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR3
+TiC,AFLOW,aflow:0281aec3e71c2e09,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CTi_sv/AB_oI8_71_g_e-002.AB,C2Ti2,-0.588054,,,71,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oI8
+TiC,AFLOW,aflow:0248081f58936426,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CTi_sv/249,C2Ti4,0.114335,,,141,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI12
+WC,AFLOW,aflow:009de676518f1749,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CW_pv/271,C2W6,0.451327,,,63,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oS16
+WC,AFLOW,aflow:0189af7da54cd3c5,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/HEX/C1W1_ICSD_77566,C1W1,,,0.0,187,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP2
+WC,AFLOW,aflow:01ac4098fe3b0771,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CW_pv/178,C4W8,1.98964,,,194,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP12
+WC,AFLOW,aflow:011a96e407cc4c17,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CW_pv/202,C1W4,1.85491,,,139,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI10
+WC,AFLOW,aflow:011e35f7f9a0826d,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/CW_pv/248,C4W2,1.43765,,,141,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI12
+ZrN,AFLOW,aflow:002b94048fcbcdf1,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NZr_sv/A3B2_hR5_160_3a_2a-001.BA,N2Zr3,-1.20192,,,160,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hR5
+ZrN,AFLOW,aflow:01c89c210784f23f,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/N1Zr1_ICSD_186384,N1Zr1,-1.68966,,0.0,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+ZrN,AFLOW,aflow:0244334498c7f188,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NZr_sv/A2B_oP12_60_d_c-001.BA,N4Zr8,-1.18735,,,60,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,oP12
+ZrN,AFLOW,aflow:021ec9c56c097a92,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NZr_sv/AB_cP6_221_c_d.AB,N3Zr3,-0.637594,,,221,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cP6
+ZrN,AFLOW,aflow:035b90e7e6b4d73f,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/NZr_sv/AB3_hP4_187_e_fh-001.AB,N1Zr3,-0.557682,,,187,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+HfN,AFLOW,aflow:0099a80e4ed1c974,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/Hf1N1_ICSD_76129,Hf1N1,-1.75802,,0.0,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8
+HfN,AFLOW,aflow:00fd6d710e9177b8,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Hf_pvN/A5B4_tI18_87_ah_h-001.BA,Hf4N5,-1.68439,,,87,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,tI18
+HfN,AFLOW,aflow:01d79108a8f90edd,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/BCC/Hf3N4_ICSD_97997,Hf6N8,-1.60647,,1.0245,220,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cI28
+HfN,AFLOW,aflow:02f2de5ace7e599c,https://aflowlib.duke.edu:AFLOWDATA/LIB2_WEB/Hf_pvN/AB3_hP4_187_e_fh-001.BA,Hf3N1,-0.592589,,,187,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,hP4
+HfN,AFLOW,aflow:0388110f14bd276c,https://aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/Hf1N1_ICSD_638656,Hf1N1,-1.75802,,0.0,225,AFLOW 元素组成候选条目，需人工复核结构、相组成与涂层适用性,cF8

@@ -1,0 +1,14 @@
+﻿formula,source_database,source_id,source_url,data_status,formation_energy,energy_above_hull,band_gap,density,elastic_modulus,mp_formula_pretty,mp_is_stable
+TiN,Materials Project,mp-33046,https://materialsproject.org/materials/mp-33046,已接入 Materials Project 官方 API 数据,-1.868186,0.074482,0.0,4.702693,待接入,TiN,False
+CrN,Materials Project,mp-1232890,https://materialsproject.org/materials/mp-1232890,已接入 Materials Project 官方 API 数据,-0.726675,0.022512,0.0,6.200053,待接入,CrN,False
+AlN,Materials Project,mp-1700,https://materialsproject.org/materials/mp-1700,已接入 Materials Project 官方 API 数据,-1.658923,0.020749,3.3036,3.266813,待接入,AlN,False
+Al2O3,Materials Project,mp-7048,https://materialsproject.org/materials/mp-7048,已接入 Materials Project 官方 API 数据,-3.409391,0.01716,4.4607,3.62631,待接入,Al2O3,False
+Cr2O3,Materials Project,mp-755749,https://materialsproject.org/materials/mp-755749,已接入 Materials Project 官方 API 数据,-2.328298,0.03829,2.3438,5.343477,待接入,Cr2O3,False
+TiO2,Materials Project,mp-1840,https://materialsproject.org/materials/mp-1840,已接入 Materials Project 官方 API 数据,-3.505014,0.003041,2.2862,4.10516,待接入,TiO2,False
+ZrO2,Materials Project,mp-776404,https://materialsproject.org/materials/mp-776404,已接入 Materials Project 官方 API 数据,-3.80412,0.009497,3.4629,5.78142,待接入,ZrO2,False
+SiO2,Materials Project,mp-6930,https://materialsproject.org/materials/mp-6930,已接入 Materials Project 官方 API 数据,-3.272206,0.000626,5.6695,2.632258,待接入,SiO2,False
+SiC,Materials Project,mp-7631,https://materialsproject.org/materials/mp-7631,已接入 Materials Project 官方 API 数据,-0.305939,8e-06,2.0224,3.227773,待接入,SiC,False
+TiC,Materials Project,mp-631,https://materialsproject.org/materials/mp-631,已接入 Materials Project 官方 API 数据,-0.965352,0.0,0.0,4.894158,待接入,TiC,True
+WC,Materials Project,mp-13136,https://materialsproject.org/materials/mp-13136,已接入 Materials Project 官方 API 数据,0.29412,0.447661,0.0,15.424677,待接入,WC,False
+ZrN,Materials Project,mp-1093992,https://materialsproject.org/materials/mp-1093992,已接入 Materials Project 官方 API 数据,-1.93591,0.039597,0.0,7.235588,待接入,ZrN,False
+HfN,Materials Project,mp-1096994,https://materialsproject.org/materials/mp-1096994,已接入 Materials Project 官方 API 数据,-1.961727,0.020751,0.0,13.875831,待接入,HfN,False

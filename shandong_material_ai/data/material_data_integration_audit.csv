@@ -1,0 +1,17 @@
+﻿formula,material_name_cn,recommendation_object_type,material_system,chemistry_tags,materials_database_status,source_database,source_id,external_material_database_candidates,literature_records,literature_status,evidence_gap
+TiN,氮化钛,表面工程与防护涂层,陶瓷与硬质涂层,氮化物|PVD候选,已接入 Materials Project,Materials Project,mp-33046,10,12,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+CrN,氮化铬,表面工程与防护涂层,陶瓷与硬质涂层,氮化物|PVD候选,已接入 Materials Project,Materials Project,mp-1232890,10,9,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+AlN,氮化铝,表面工程与防护涂层,陶瓷与硬质涂层,氮化物|PVD候选,已接入 Materials Project,Materials Project,mp-1700,5,7,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+TiAlN,钛铝氮,表面工程与防护涂层,陶瓷与硬质涂层,多元氮化物|PVD候选,待接入真实材料数据库,待接入真实数据库,,5,10,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+Al2O3,氧化铝,表面工程与防护涂层,陶瓷与硬质涂层,氧化物|PVD候选,已接入 Materials Project,Materials Project,mp-7048,10,6,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+Cr2O3,氧化铬,表面工程与防护涂层,陶瓷与硬质涂层,氧化物|PVD候选,已接入 Materials Project,Materials Project,mp-755749,10,3,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+TiO2,氧化钛,表面工程与防护涂层,陶瓷与硬质涂层,氧化物|PVD候选,已接入 Materials Project,Materials Project,mp-1840,5,9,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+ZrO2,氧化锆,表面工程与防护涂层,陶瓷与硬质涂层,氧化物|PVD候选,已接入 Materials Project,Materials Project,mp-776404,10,9,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+SiO2,二氧化硅,表面工程与防护涂层,陶瓷与硬质涂层,氧化物|PVD候选,已接入 Materials Project,Materials Project,mp-6930,5,8,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+SiC,碳化硅,表面工程与防护涂层,陶瓷与硬质涂层,碳化物|PVD候选,已接入 Materials Project,Materials Project,mp-7631,10,9,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+TiC,碳化钛,表面工程与防护涂层,陶瓷与硬质涂层,碳化物|PVD候选,已接入 Materials Project,Materials Project,mp-631,10,2,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+WC,碳化钨,表面工程与防护涂层,陶瓷与硬质涂层,碳化物|PVD候选,已接入 Materials Project,Materials Project,mp-13136,5,7,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+ZrN,氮化锆,表面工程与防护涂层,陶瓷与硬质涂层,氮化物|PVD候选,已接入 Materials Project,Materials Project,mp-1093992,10,10,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+HfN,氮化铪,表面工程与防护涂层,陶瓷与硬质涂层,氮化物|PVD候选,已接入 Materials Project,Materials Project,mp-1096994,5,3,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+AlCrN,铝铬氮,表面工程与防护涂层,陶瓷与硬质涂层,多元氮化物|PVD候选,待接入真实材料数据库,待接入真实数据库,,0,10,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段
+CrAlN,铬铝氮,表面工程与防护涂层,陶瓷与硬质涂层,多元氮化物|PVD候选,待接入真实材料数据库,待接入真实数据库,,0,4,已接入多源文献线索,待补充基体、工艺、厚度、盐雾/电化学/磨损等可比实验字段

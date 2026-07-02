@@ -1,0 +1,224 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8501
+
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\5_研发机会与验证路径.py:13 in <module> |
+|                                                                                      |
+|    10 DATA_DIR = BASE_DIR / "data"                                                   |
+|    11 sys.path.append(str(BASE_DIR))                                                 |
+|    12                                                                                |
+| >  13 from ui_theme import apply_theme, render_top_nav  # noqa: E402                 |
+|    14                                                                                |
+|    15 st.set_page_config(page_title="研发机会与验证路径", layout="wide")             |
+|    16 apply_theme("validation")                                                      |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'render_compact_stats' from 'ui_theme' 
+(E:\数据要素\第二版\shandong_material_ai\ui_theme.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR))                                                 |
+|    15                                                                                |
+|    16 from score_materials import score_materials  # noqa: E402                      |
+| >  17 from ui_theme import apply_theme, render_top_nav  # noqa: E402                 |
+|    18                                                                                |
+|    19                                                                                |
+|    20 st.set_page_config(page_title="材料智能推荐", layout="wide")                   |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'render_compact_stats' from 'ui_theme' 
+(E:\数据要素\第二版\shandong_material_ai\ui_theme.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\3_材料详情页.py:15 in <module>         |
+|                                                                                      |
+|    12 sys.path.append(str(BASE_DIR))                                                 |
+|    13                                                                                |
+|    14 from score_materials import score_materials  # noqa: E402                      |
+| >  15 from ui_theme import apply_theme, render_top_nav  # noqa: E402                 |
+|    16                                                                                |
+|    17                                                                                |
+|    18 st.set_page_config(page_title="材料证据档案", layout="wide")                   |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'render_compact_stats' from 'ui_theme' 
+(E:\数据要素\第二版\shandong_material_ai\ui_theme.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR))                                                 |
+|    15                                                                                |
+|    16 from recommendation_engine import screen_materials  # noqa: E402               |
+| >  17 from ui_theme import apply_theme, render_top_nav  # noqa: E402                 |
+|    18 import ui_components  # noqa: E402                                             |
+|    19                                                                                |
+|    20                                                                                |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'ENGINEERING_COMPONENTS' from 'recommendation_engine' 
+(E:\数据要素\第二版\shandong_material_ai\scripts\recommendation_engine.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR / "scripts"))                                     |
+|    15 sys.path.append(str(BASE_DIR))                                                 |
+|    16                                                                                |
+| >  17 from recommendation_engine import (  # noqa: E402                              |
+|    18     ENGINEERING_COMPONENTS,                                                    |
+|    19     MATERIAL_SYSTEMS_BY_OBJECT,                                                |
+|    20     RECOMMENDATION_OBJECT_TYPES,                                               |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'ENGINEERING_COMPONENTS' from 'recommendation_engine' 
+(E:\数据要素\第二版\shandong_material_ai\scripts\recommendation_engine.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR / "scripts"))                                     |
+|    15 sys.path.append(str(BASE_DIR))                                                 |
+|    16                                                                                |
+| >  17 from recommendation_engine import (  # noqa: E402                              |
+|    18     ENGINEERING_COMPONENTS,                                                    |
+|    19     MATERIAL_SYSTEMS_BY_OBJECT,                                                |
+|    20     RECOMMENDATION_OBJECT_TYPES,                                               |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'ENGINEERING_COMPONENTS' from 'recommendation_engine' 
+(E:\数据要素\第二版\shandong_material_ai\scripts\recommendation_engine.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR / "scripts"))                                     |
+|    15 sys.path.append(str(BASE_DIR))                                                 |
+|    16                                                                                |
+| >  17 from recommendation_engine import (  # noqa: E402                              |
+|    18     ENGINEERING_COMPONENTS,                                                    |
+|    19     MATERIAL_SYSTEMS_BY_OBJECT,                                                |
+|    20     RECOMMENDATION_OBJECT_TYPES,                                               |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'ENGINEERING_COMPONENTS' from 'recommendation_engine' 
+(E:\数据要素\第二版\shandong_material_ai\scripts\recommendation_engine.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR / "scripts"))                                     |
+|    15 sys.path.append(str(BASE_DIR))                                                 |
+|    16                                                                                |
+| >  17 from recommendation_engine import (  # noqa: E402                              |
+|    18     ENGINEERING_COMPONENTS,                                                    |
+|    19     MATERIAL_SYSTEMS_BY_OBJECT,                                                |
+|    20     RECOMMENDATION_OBJECT_TYPES,                                               |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'ENGINEERING_COMPONENTS' from 'recommendation_engine' 
+(E:\数据要素\第二版\shandong_material_ai\scripts\recommendation_engine.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:129 in       |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:787 in   |
+| code_to_exec                                                                         |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:171 in   |
+| _mpa_v1                                                                              |
+|                                                                                      |
+| E:\python\Lib\site-packages\streamlit\navigation\page.py:490 in run                  |
+|                                                                                      |
+| E:\数据要素\第二版\shandong_material_ai\pages\2_材料智能推荐.py:17 in <module>       |
+|                                                                                      |
+|    14 sys.path.append(str(BASE_DIR / "scripts"))                                     |
+|    15 sys.path.append(str(BASE_DIR))                                                 |
+|    16                                                                                |
+| >  17 from recommendation_engine import (  # noqa: E402                              |
+|    18     ENGINEERING_COMPONENTS,                                                    |
+|    19     MATERIAL_SYSTEMS_BY_OBJECT,                                                |
+|    20     RECOMMENDATION_OBJECT_TYPES,                                               |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'ENGINEERING_COMPONENTS' from 'recommendation_engine' 
+(E:\数据要素\第二版\shandong_material_ai\scripts\recommendation_engine.py)

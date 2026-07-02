@@ -1,0 +1,8 @@
+﻿category,keywords,source_asset,data_status
+环境可靠性,盐雾、湿热、腐蚀、老化、耐候、浸泡,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证
+力学与结构,拉伸、弯曲、冲击、疲劳、硬度、密度,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证
+热与电性能,导热、热分析、热循环、介电、绝缘、阻抗,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证
+燃烧安全,阻燃、燃烧、烟密度、热失控、安全测试,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证
+表面与微观,表面分析、涂层、附着力、显微组织、摩擦磨损、冲蚀,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证
+阻隔密封,渗透、密封、耐压、防水、阻隔、耐介质,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证
+绿色低碳,循环利用、碳足迹、生命周期、再生、环保,第一版 rules/service_capability_rules.yaml,服务能力关键词规则，非机构资质认证

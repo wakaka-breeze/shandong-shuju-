@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.2
+plotly>=5.22
+pydeck>=0.9
+networkx>=3.3
+scikit-learn>=1.5
+mp-api>=0.41
+python-dotenv>=1.0
+pyyaml>=6.0

@@ -1,0 +1,51 @@
+﻿catalog_id,catalog_name,file_resource_count,api_service_count,selected_file_count,download_status,error
+6bca3e65b54149bc90e4f1a4417c980f,威海市海洋生产总值（分区市）信息,60.0,2.0,3.0,metadata_collected,
+a134c04cda564f4bab096b3e1b4fa9c4,远洋捕捞渔船信息,40.0,2.0,3.0,metadata_collected,
+324076aabf184eb18aa26c1d22ad95e8,烟台市港口经营许可证,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+4ce717c4712d4e61a017dbc0070b3058,烟台市统计年鉴_沿海主要港口货物吞吐量,25.0,1.0,3.0,metadata_collected,
+20201113144849155900,烟台莱山区新材料及其应用技术合同登记信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+7CD9C95E77ED4288A2800277DDC4A303,新材料领域高新技术企业名单,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+e5682c20764444aabcb121941b37581d,荣成市国内渔船检验证书核发信息,30.0,2.0,3.0,metadata_collected,
+f77e56de776345b3a40aa5496e09b39d,荣成市港口基本信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+78613881491d48d69231fa1b7ecc675d,威海市车载设备监测区县PM浓度信息,40.0,2.0,3.0,metadata_collected,
+39df846dd67b480083ecd45b081356b2,威海市排污许可证清单信息,35.0,3.0,3.0,metadata_collected,
+2e27984eae3d42afa31260805a390717,威海市地表水水质（饮用水水源地水质）月报信息,56.0,2.0,3.0,metadata_collected,
+eb42748c96f84d06aeba0a458df582bf,新材料行业管理信息,35.0,2.0,3.0,metadata_collected,
+5b03163b1c8044f6aef7311127b43c3b,武城县新材料产品生产企业,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+3e4dd08bb26049af930824260ac603d8,新材料领域科技型中小企业名单信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+0415BD2C387A4871BF503AAD4C0CFFD5,东营新材料产业园危险废物申报登记备案信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+6d1581ac522f43f99cad94aa33a54e69,薛城区新材料企业名单,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+d09ffc755eca424bb2c4ba676be84b2a,薛城区“6+3”新材料产业企业名单,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+e405dc8eb334486fab5483738f202280,威海市高新技术企业信息,35.0,3.0,3.0,metadata_collected,
+95073cbbb5794f67bb8f84c9df4ec9ea,夏津县高新技术企业认定信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+6151ae21a8b748ca8f05be3b9be1ea91,高新技术企业认定,20.0,1.0,3.0,metadata_collected,
+873b4602fac14e9da378283db6c0658e,夏津县科技型中小企业,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+d45e0888ed354d06a883d5c0ad9984fa,烟台招远市国家科技型中小企业名单信息,20.0,1.0,3.0,metadata_collected,
+545933217c32427a9d03c525c57a20fd,威海市技术合同登记信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+20201217134833315800,烟台栖霞市先进制造技术合同登记信息,16.0,1.0,3.0,metadata_collected,
+f0a89834dde64918bb2937dbc8e0246f,山东省首台（套）技术装备和关键核心零部件及生产企业信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+48ce7cb4e3054f4aa1d89c35798dd3db,文登区山东省首台（套）技术装备和关键核心零部件及生产企业信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+6b8eec2e55ed42b3ba72c8c6cf71b14b,东营市首台套技术装备项目信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+087a99f7ffc8443485cd4a9209b8480c,威海市列入山东省技术创新项目计划信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+17836b0064884321accd9382b9b111ec,威海市市级技术创新中心立项信息,35.0,2.0,3.0,metadata_collected,
+03303c5ebf704f58af51e6c5cd278b0a,威海市省级技术创新中心统计信息,14.0,2.0,1.0,metadata_collected,
+55006bd49a4a4a838d7abfd4e252a629,威海市“专精特新”中小企业信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+5c398d75d118400288bdb00f73d506a6,烟台莱阳市新认定专精特新企业信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+4b71b20246054031a0da6a071af520f4,市级工业设计中心名单信息,25.0,2.0,3.0,metadata_collected,
+3a515d9e9a614d629a531238cd8bc1a1,省级工业设计中心名单信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+93dc7d61fde54d09aa119bebe236ab13,烟台市国家级、省级工业设计中心名录,20.0,1.0,3.0,metadata_collected,
+badcf511473744029ffa6fcbf6156dfe,产品检验检测结论信息（质检报告管理系统）,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+8eaf3908d70d49238beb5fd35a718385,实验室检验能力信息,24.0,2.0,3.0,metadata_collected,
+79fff75fd64143dd80c14fb2c0d91823,荣成市科技局_科技创新券（检验检测服务类）兑换信息,30.0,2.0,3.0,metadata_collected,
+c18d83dd235244948b04893137bf12e4,知识产权“贯标”企业信息,30.0,2.0,3.0,metadata_collected,
+87df4a5fdec549c08d0ffa3e3feccbc8,威海市建筑节能技术产品应用认定信息_,35.0,2.0,3.0,metadata_collected,
+2414366f73ec4c2782038461210afd9b,威海市工程实验室（研究中心）、市级企业技术中心名单信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+8d547b502f8741859923113e4384b81c,威海市省级重点实验室统计信息,30.0,2.0,3.0,metadata_collected,
+fcaa9ba91b6644c8b2b26ffd286183ba,威海市市级重点实验室立项信息,30.0,2.0,3.0,metadata_collected,
+33b510ce990e475eb97dbf33ecce0b9f,烟台市重点实验室名单信息,25.0,1.0,3.0,metadata_collected,
+f78faa7e81b14c76ab98472d79f0513f,禹城市-有毒有害气体监测信息、监测设备、单位等数据-化工产业园服务中心,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+3e8b4d9a6d0346d4a5f34e4e3af03b43,禹城市-废气监测信息、监测设备、单位等数据表-化工产业园服务中心,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+cc5dae1322aa4874adca560e8127370e,滨城区化工企业信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+0C8D07030DE34C679EF199369EA2F9A3,惠民县化工企业情况信息,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+490a967eb5e047b48ade83bc92d793f1,德州市复合材料产业终端领域在谈项目,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)
+b3616385b6534f33813a23c4efdf079b,复合材料产业重点企业及科研机构名录,,,,metadata_failed,Expecting value: line 1 column 1 (char 0)

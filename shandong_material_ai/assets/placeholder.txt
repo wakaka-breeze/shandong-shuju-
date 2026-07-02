@@ -1,0 +1,1 @@
+This directory is reserved for future local images, icons, and generated assets.

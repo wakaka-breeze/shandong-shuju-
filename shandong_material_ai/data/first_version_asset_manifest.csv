@@ -1,0 +1,6 @@
+﻿asset_name,source_zip,source_version,data_status
+material_route_rules.csv,E:\数据要素\第一版\shandong_material_opportunity_platform.zip,第一版 shandong_material_opportunity_platform,从第一版导入的规则或样例数据，需保留边界说明
+candidate_material_systems.csv,E:\数据要素\第一版\shandong_material_opportunity_platform.zip,第一版 shandong_material_opportunity_platform,从第一版导入的规则或样例数据，需保留边界说明
+rd_path_rules.csv,E:\数据要素\第一版\shandong_material_opportunity_platform.zip,第一版 shandong_material_opportunity_platform,从第一版导入的规则或样例数据，需保留边界说明
+service_capability_rules.csv,E:\数据要素\第一版\shandong_material_opportunity_platform.zip,第一版 shandong_material_opportunity_platform,从第一版导入的规则或样例数据，需保留边界说明
+opportunity_cards_sample.csv,E:\数据要素\第一版\shandong_material_opportunity_platform.zip,第一版 shandong_material_opportunity_platform,从第一版导入的规则或样例数据，需保留边界说明

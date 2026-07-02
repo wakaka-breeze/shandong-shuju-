@@ -1,0 +1,8 @@
+﻿source_name,source_type,records,integration_status
+Materials Project,materials_database,,已在候选材料主表接入；新增条目需配置 MP_API_KEY 后刷新
+OQMD,materials_database,40,已接入公开 REST 候选条目，需人工复核结构与公式匹配
+AFLOW,materials_database,70,已接入元素组成候选结构，需人工复核相组成与涂层适用性
+Crossref 主题拓展期刊论文,literature_metadata,80,已接入文献元数据线索，尚未完成全文精读和实验指标抽取
+Crossref 文献元数据,literature_metadata,60,已接入文献元数据线索，尚未完成全文精读和实验指标抽取
+Europe PMC 文献元数据,literature_metadata,32,已接入文献元数据线索，尚未完成全文精读和实验指标抽取
+Crossref DOI期刊论文候选,literature_metadata,26,已接入文献元数据线索，尚未完成全文精读和实验指标抽取
